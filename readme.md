@@ -1,68 +1,64 @@
 # Interactive Data Visualization Portfolio
 
 ## Table of Contents
-### 1. Projects and Tutorials
-#### 1.1 Getting Started
-#### 1.2 Basic HTML
-#### 1.3 Intro to JS
-#### 2.1 Quantities and Amounts
-#### 2.2 Distributions
-#### 2.3 Time Series
-#### 2.4 Geographic
-
-### 2. Final Project
-
-### 3. Reflection
+### [1. Projects and Tutorials](#Projects-and-Tutorials)
+#### &emsp;[1.1 Getting Started](#1.1-Getting-Started)
+#### &emsp;[1.2 Basic HTML](#1.2-Basic-HTML)
+#### &emsp;[1.3 Intro to JS](#1.3-Intro-to-JS)
+#### &emsp;[2.1 Quantities and Amounts](#2.1-Quantities-and-Amounts)
+#### &emsp;[2.2 Distributions](#2.2-Distributions)
+#### &emsp;[2.3 Time Series](#2.3-Time-Series)
+#### &emsp;[2.4 Geographic](#2.4-Geographic)
+### [2. Final Project](#Final-Project)
+### [3. Reflection](#Reflection)
 
 <hr>
 
 ## Projects and Tutorials
-<hr>
 
 ### 1.1 Getting Started
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_1_getting_started/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_1_getting_started/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_1_getting_started/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_1_getting_started/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/1_1_getting_started](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/1_1_getting_started)
 
 ### 1.2 Basic HTML
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_2_basic_html/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_2_basic_html/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_2_basic_html/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_2_basic_html/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/1_2_basic_html](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/1_2_basic_html)
 
 ### 1.3 Intro to JS
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_3_intro_to_js/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_3_intro_to_js/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_3_intro_to_js/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/1_3_intro_to_js/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/1_3_intro_to_js](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/1_3_intro_to_js)
 
 ### 2.1 Quantities and Amounts
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_1_quantities_and_amounts/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_1_quantities_and_amounts/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_1_quantities_and_amounts/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_1_quantities_and_amounts/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_1_quantities_and_amounts](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_1_quantities_and_amounts)
 
 ### 2.2 Distributions
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_2_distributions](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_2_distributions)
 
 ### 2.3 Time Series
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_2_distributions/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_3_time_series](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_3_time_series/)
 
 ### 2.4 Geographic
 
-Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_4_geographic/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_4_geographic/)
+Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_4_geographic/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_4_geographic/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_4_geographic](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_4_geographic)
 
 
 ## Final Project
-<hr>
 
 ### Mapping Flood Myths
 
-![Mapping Flood Myths Site Image] (/FinalProject/MappingFloodMyths.png)
+![Mapping Flood Myths Site Image](/FinalProject/MappingFloodMyths.png)
 
-Project Link: [https://mappingfloodmyths.github.io](https://mappingfloodmyths.github.io)
+Project Link: [https://mappingfloodmyths.github.io](https://mappingfloodmyths.github.io)<br>
 GitHub Repository Link: [https://github.com/mappingfloodmyths/mappingfloodmyths.github.io](https://github.com/mappingfloodmyths/mappingfloodmyths.github.io)
 
 #### Abstract
@@ -71,6 +67,7 @@ The power of water transcends time and connects all of humankind. Present day ex
 A majority of the current flood myth analyses have been targeting Euro-centric civilizations (Ex: Noah’s Ark/Christianity, Gilgamesh’s flood/Babylon, and Deucalion’s flood/Greek). With this project as a starting point, flood myths from other civilizations can be discovered and further researched. Aside from expanding upon disfavored flood myths, this project can be a starting point for further analysis of the importance of flood myths and how they shaped civilizations. 
 
 The target audience for this project will be anyone interested in flood myths in general or Geomythology (“the study of etiological oral traditions created by pre-scientific cultures to explain—in poetic metaphor and mythological imagery—geological phenomena such as volcanoes, earthquakes, floods, fossils, and other natural features of the landscape” (Mayor)). This project can be a starting point for many new analyses to be made in the fields of geomythology, archaeology, meteorology and many more.
+
 
 #### Technical Specifications
 The data that I used for the website was collected from a website created by Mark Isaak called [The Flood in World Myth and Folklore](https://www.curioustaxonomy.net/home/FloodMyths/). The data was gathered using the Google Chrome extension, [WebScraper](https://webscraper.io/). Starting on the home page, I had WebScraper take the name of each region link which, once clicked, led to a page of origins. On the origin pages, WebScraper took the name of each origin link which, once clicked, then led to the page of their stories. On the story pages, I had WebScraper take the text of all paragraphs on the page. For almost all the story pages, the reference paragraph has the class HTML element of “ref”. This is how I distinguished the references for WebScraper to collect from the other paragraphs that contained the stories.
@@ -81,6 +78,7 @@ Once the text was cleaned, I started working on the locations of the stories. Ma
 
 The data can be viewed [here](https://github.com/mappingfloodmyths/mappingfloodmyths.github.io/blob/main/Data/flood_myths_site_data_cleaned.csv).
 
+
 #### Sketches
 Original Sketch:
 ![Original Sketch page 1](/FinalProject/Original_Sketches_Page_1.png)
@@ -90,7 +88,7 @@ Final Sketch:
 ![Final Sketch](/FinalProject/FinalSketches.png)
 
 ## Reflection
-<hr>
+
 
 For my project, I originally had the idea of using Leaflet but, I ended up going with D3.js because it was easier to work with (once we had the geography class and saw that all I needed was shapefiles) and it felt like I could customize things more. I decided to go with a vintage/antique map look for my project. One way I contributed to this idea was by styling the points on the map to look like push pins. I decided to fill the space around the map with images of different works of art relating to flood myths from around the world. In the same style of vintage maps, I adjusted the colors of all the images to appear in a sepia/light brown filter using Photoshop. I also knew I wanted to do something with the imagery of a wave to match the water theme. To do this, I put the menu at the bottom of the page so that when it is clicked, a wave could rise as if flooding the page.
 
