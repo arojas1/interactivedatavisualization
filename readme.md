@@ -2,13 +2,13 @@
 
 ## Table of Contents
 ### [Projects and Tutorials](#Projects-and-Tutorials)
-#### &emsp;[1.1 Getting Started](#11-Getting-Started)
-#### &emsp;[1.2 Basic HTML](#12-Basic-HTML)
-#### &emsp;[1.3 Intro to JS](#13-Intro-to-JS)
-#### &emsp;[2.1 Quantities and Amounts](#21-Quantities-and-Amounts)
-#### &emsp;[2.2 Distributions](#22-Distributions)
-#### &emsp;[2.3 Time Series](#23-Time-Series)
-#### &emsp;[2.4 Geographic](#24-Geographic)
+#### &emsp;[1.1 Getting Started](#11-Getting-Started-1)
+#### &emsp;[1.2 Basic HTML](#12-Basic-HTML-1)
+#### &emsp;[1.3 Intro to JS](#13-Intro-to-JS-1)
+#### &emsp;[2.1 Quantities and Amounts](#21-Quantities-and-Amounts-1)
+#### &emsp;[2.2 Distributions](#22-Distributions-1)
+#### &emsp;[2.3 Time Series](#23-Time-Series-1)
+#### &emsp;[2.4 Geographic](#24-Geographic-1)
 ### [Final Project](#Final-Project)
 ### [Reflection](#Reflection)
 
