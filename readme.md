@@ -1,16 +1,16 @@
 # Interactive Data Visualization Portfolio
 
 ## Table of Contents
-### [1. Projects and Tutorials](#Projects-and-Tutorials)
-#### &emsp;[1.1 Getting Started](#1.1-Getting-Started)
-#### &emsp;[1.2 Basic HTML](#1.2-Basic-HTML)
-#### &emsp;[1.3 Intro to JS](#1.3-Intro-to-JS)
-#### &emsp;[2.1 Quantities and Amounts](#2.1-Quantities-and-Amounts)
-#### &emsp;[2.2 Distributions](#2.2-Distributions)
-#### &emsp;[2.3 Time Series](#2.3-Time-Series)
-#### &emsp;[2.4 Geographic](#2.4-Geographic)
-### [2. Final Project](#Final-Project)
-### [3. Reflection](#Reflection)
+### [Projects and Tutorials](#Projects-and-Tutorials)
+#### &emsp;[1.1 Getting Started](#11-Getting-Started)
+#### &emsp;[1.2 Basic HTML](#12-Basic-HTML)
+#### &emsp;[1.3 Intro to JS](#13-Intro-to-JS)
+#### &emsp;[2.1 Quantities and Amounts](#21-Quantities-and-Amounts)
+#### &emsp;[2.2 Distributions](#22-Distributions)
+#### &emsp;[2.3 Time Series](#23-Time-Series)
+#### &emsp;[2.4 Geographic](#24-Geographic)
+### [Final Project](#Final-Project)
+### [Reflection](#Reflection)
 
 <hr>
 
@@ -51,25 +51,21 @@ Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2
 Project Link: [https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_4_geographic/](https://arojas1.github.io/Interactive-Data-Vis-Fall2021/2_4_geographic/)<br>
 Tutorial Link: [https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_4_geographic](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/main/2_4_geographic)
 
-
 ## Final Project
-
-### Mapping Flood Myths
 
 ![Mapping Flood Myths Site Image](/FinalProject/MappingFloodMyths.png)
 
 Project Link: [https://mappingfloodmyths.github.io](https://mappingfloodmyths.github.io)<br>
 GitHub Repository Link: [https://github.com/mappingfloodmyths/mappingfloodmyths.github.io](https://github.com/mappingfloodmyths/mappingfloodmyths.github.io)
 
-#### Abstract
+### Abstract
 The power of water transcends time and connects all of humankind. Present day examples including hurricanes here in the US (Katrina, Maria, Irene to just name a few) and tsunamis like at Fukushima. Mapping Flood Myths will look at flood myths and legends and map the locations of these myths on an interactive web map.
 
 A majority of the current flood myth analyses have been targeting Euro-centric civilizations (Ex: Noah’s Ark/Christianity, Gilgamesh’s flood/Babylon, and Deucalion’s flood/Greek). With this project as a starting point, flood myths from other civilizations can be discovered and further researched. Aside from expanding upon disfavored flood myths, this project can be a starting point for further analysis of the importance of flood myths and how they shaped civilizations. 
 
 The target audience for this project will be anyone interested in flood myths in general or Geomythology (“the study of etiological oral traditions created by pre-scientific cultures to explain—in poetic metaphor and mythological imagery—geological phenomena such as volcanoes, earthquakes, floods, fossils, and other natural features of the landscape” (Mayor)). This project can be a starting point for many new analyses to be made in the fields of geomythology, archaeology, meteorology and many more.
 
-
-#### Technical Specifications
+### Technical Specifications
 The data that I used for the website was collected from a website created by Mark Isaak called [The Flood in World Myth and Folklore](https://www.curioustaxonomy.net/home/FloodMyths/). The data was gathered using the Google Chrome extension, [WebScraper](https://webscraper.io/). Starting on the home page, I had WebScraper take the name of each region link which, once clicked, led to a page of origins. On the origin pages, WebScraper took the name of each origin link which, once clicked, then led to the page of their stories. On the story pages, I had WebScraper take the text of all paragraphs on the page. For almost all the story pages, the reference paragraph has the class HTML element of “ref”. This is how I distinguished the references for WebScraper to collect from the other paragraphs that contained the stories.
 
 Once collected, I had to clean the data by combining some rows of data since there were duplicates created based on the paragraph and reference elements on the different pages. For example, there were some origins that had multiple stories each with their own references. When the data was scraped for this origin, WebScraper created a new line for each story multiplied by each reference that was on the page. In addition to this, there were times when a single story would be broken up into multiple paragraphs, which would also lead to a separate row in the data. To condense it, I made sure that each story, whether it was split into multiple paragraphs or not, was combined into one row with the source that went with that one story, this way there was one row per story. Once combined, I created a new column to remove any extra spaces and line breaks in the story text.
@@ -78,8 +74,7 @@ Once the text was cleaned, I started working on the locations of the stories. Ma
 
 The data can be viewed [here](https://github.com/mappingfloodmyths/mappingfloodmyths.github.io/blob/main/Data/flood_myths_site_data_cleaned.csv).
 
-
-#### Sketches
+### Sketches
 Original Sketch:
 ![Original Sketch page 1](/FinalProject/Original_Sketches_Page_1.png)
 ![Original Sketch page 2](/FinalProject/Original_Sketches_Page_2.png)
@@ -88,7 +83,6 @@ Final Sketch:
 ![Final Sketch](/FinalProject/FinalSketches.png)
 
 ## Reflection
-
 
 For my project, I originally had the idea of using Leaflet but, I ended up going with D3.js because it was easier to work with (once we had the geography class and saw that all I needed was shapefiles) and it felt like I could customize things more. I decided to go with a vintage/antique map look for my project. One way I contributed to this idea was by styling the points on the map to look like push pins. I decided to fill the space around the map with images of different works of art relating to flood myths from around the world. In the same style of vintage maps, I adjusted the colors of all the images to appear in a sepia/light brown filter using Photoshop. I also knew I wanted to do something with the imagery of a wave to match the water theme. To do this, I put the menu at the bottom of the page so that when it is clicked, a wave could rise as if flooding the page.
 
